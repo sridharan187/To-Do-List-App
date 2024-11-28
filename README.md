@@ -1,0 +1,1 @@
+The Todo List app allows users to add, mark as completed, and delete tasks in a simple and intuitive interface. It uses HTML for structure, CSS for styling, and JavaScript to manage the task list and handle interactivity. The app stores tasks in the browser's `localStorage`, ensuring they persist even after the page is refreshed.
